@@ -23,7 +23,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8">
           {/* Brand Section */}
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-foreground">Portfolio</h3>
+            <h3 className="text-xl font-bold text-foreground">Nasir</h3>
             <p className="text-muted-foreground leading-relaxed">
               Experienced full-stack developer specializing in scalable web applications, 
               CMS development, and modern UI/UX design.
@@ -91,7 +91,7 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-muted-foreground text-sm">
-              © {currentYear} Portfolio. All rights reserved.
+              © {currentYear} Nasir. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
               <button 
